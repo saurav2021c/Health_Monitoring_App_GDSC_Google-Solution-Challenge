@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "id": "Start",
+      "isDefault": true
+    },
+    {
+      "id": "Intro 1",
+      "isDefault": false
+    },
+    {
+      "id": "Login",
+      "isDefault": false
+    },
+    {
+      "id": "Home page",
+      "isDefault": false
+    },
+    {
+      "id": "Diary",
+      "isDefault": false
+    },
+    {
+      "id": "Documents",
+      "isDefault": false
+    },
+    {
+      "id": "Reminders",
+      "isDefault": false
+    },
+    {
+      "id": "Settings",
+      "isDefault": false
+    },
+    {
+      "id": "Quiz",
+      "isDefault": false
+    },
+    {
+      "id": "Sign In",
+      "isDefault": false
+    },
+    {
+      "id": "Intro 2",
+      "isDefault": false
+    },
+    {
+      "id": "Intro 3",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#CCCCCC",
+  "icon": "hospital",
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "publishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
